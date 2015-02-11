@@ -68,10 +68,10 @@ int main(void)
     	  GPIO_PORTF_DIR_R = 0b11111111;
     	  GPIO_PORTF_DEN_R = 0b11111111;
 
-        while(1)
-        {
+        while(1);
 
 
 
-        }
+
+
 }
